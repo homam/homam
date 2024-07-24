@@ -1,4 +1,6 @@
-### Hi there 👋
+[homam.me](https://homam.me)
+
+I like programming but I am a horrible coder!
 
 <!--
 **homam/homam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
